@@ -1,0 +1,1 @@
+This is the folder for the Geocom 1 mission.  Please DO NOT duplicate any kOS files unless you are making a new one.  
